@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Collection from "./pages/Collection";
 import MovieDetails from "./pages/MovieDetails";
 
+
 function App() {
   return (
     <Router>
